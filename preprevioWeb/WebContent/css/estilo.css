@@ -1,0 +1,40 @@
+#myNavbar{
+	padding-right: 0px;
+    padding-left: 0px;
+    background: #7FC3FF;
+    border-color: #7FC3FF;
+}
+
+#myNavbar li>a{
+		color: #FFFFFF;
+		display: block;
+		padding: 15px;
+		background: #7FC3FF;
+	}
+#myNavbar li>a:hover {
+		background: #7FC3FF;
+		color: #020202;
+	}
+#Infor h4{
+    text-align: center;
+    color: #013A73;
+    font-weight: bold;
+    font-size: 2em;
+}
+#formulario{
+	text-align: center;
+}
+#formulario input {
+	width: 50%;
+}
+#genero{
+	width: 50%;
+}
+#tabla th{
+	text-align: center;
+	font-size: 18px;
+}
+#tabla td{
+	text-align: center;
+
+}
